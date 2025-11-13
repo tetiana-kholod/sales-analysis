@@ -3,7 +3,8 @@ A comprehensive data analysis project combining SQL, Python, and Tableau to unco
 
 
 **Tools:** Python, SQL, Tableau  
-**Goal:** Identify key trends in sales, and assess relationships between metrics across channels, browsers, devices, languages, product categories, contries and continents.
+**Goal:** Identify key trends in sales, and assess relationships between metrics across channels, browsers, devices, languages, product categories, contries and continents.  
+
 **Dataset:** 350K user sessions (anonymized).  
 
 ## 🔍 Steps
@@ -13,4 +14,4 @@ A comprehensive data analysis project combining SQL, Python, and Tableau to unco
 4. Visualization of results  
 
 ## 📈 Dashboard
-[View Tableau Dashboard]([https://public.tableau.com/app/profile/tetiana.kholod/viz/Portfolio_Project_1_SALES/Dashboard1ї)
+[View Tableau Dashboard]([https://public.tableau.com/app/profile/tetiana.kholod/viz/Portfolio_Project_1_SALES/Dashboard1])
