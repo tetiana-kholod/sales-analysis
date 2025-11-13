@@ -14,4 +14,5 @@ A comprehensive data analysis project combining SQL, Python, and Tableau to unco
 4. Visualization of results  
 
 ## 📈 Dashboard
-[View Tableau Dashboard]([https://public.tableau.com/app/profile/tetiana.kholod/viz/Portfolio_Project_1_SALES/Dashboard1])
+[View Tableau Dashboard](https://public.tableau.com/app/profile/tetiana.kholod/viz/Portfolio_Project_1_SALES/Dashboard1)
+
