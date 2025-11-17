@@ -7,12 +7,12 @@ A comprehensive data analysis project combining SQL, Python, and Tableau to unco
 
 **Dataset:** 350K user sessions (anonymized).  
 
-## 🔍 Steps
+##Steps
 1. Data cleaning and preprocessing  
 2. Exploratory analysis  
 3. Statistical significance test  
 4. Visualization of results  
 
-## 📈 Dashboard
+##Dashboard
 [View Tableau Dashboard](https://public.tableau.com/app/profile/tetiana.kholod/viz/Portfolio_Project_1_SALES/Dashboard1)
 
